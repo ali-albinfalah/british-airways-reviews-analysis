@@ -3,8 +3,7 @@
 ## Overview
 Analysis of 3,000+ British Airways customer reviews to measure overall passenger satisfaction, identify key service drivers, and uncover areas of underperformance.
 
-**Type:** Group Project    
-**My Contribution:** Data analysis and visualization  
+**Type:** Group Project      
 **Tools:** Microsoft Excel  
 
 ## Problem Statement
