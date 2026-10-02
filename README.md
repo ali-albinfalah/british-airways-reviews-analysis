@@ -17,7 +17,7 @@ Customer feedback is scattered across ratings and comments, making it difficult 
 - BA scores 2.65/5 overall, significantly below competitors like All Nippon Airways (4.18) and EVA Air (3.93)
 
 ## Recommendations
-- Reallocate ground staff resources toward economy routes
+- Allocate ground staff resources toward economy routes
 - Invest in in-flight entertainment and food quality
 - Benchmark service standards against top-rated airlines
 - Track satisfaction monthly to detect declines early
